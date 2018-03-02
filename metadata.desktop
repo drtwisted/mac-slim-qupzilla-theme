@@ -1,0 +1,30 @@
+[Desktop Entry]
+Name=Mac Slim
+Name[ca]=Mac Slim
+Name[ca@valencia]=Mac Slim
+Name[en_GB]=Mac Slim
+Name[fi]=Mac Slim
+Name[nl]=Mac Slim
+Name[pt]=Mac Slim
+Name[sv]=Mac Slim
+Name[uk]=Mac Slim
+Name[x-test]=xxMacxx
+Name[zh_CN]=Mac Slim
+Comment=Mac like theme for Falkon based on Firefox Mac OS X theme (Slim)
+Comment[ca]=Tema semblant al Mac pel Falkon basat en el tema Mac OS X del Firefox (Slim)
+Comment[ca@valencia]=Tema paregut al Mac pel Falkon basat en el tema Mac OS X del Firefox (Slim)
+Comment[en_GB]=Mac like theme for Falkon based on Firefox Mac OS X theme (Slim)
+Comment[fi]=Firefoxin Mac OS X -teemaan pohjautuva Macin kaltainen Falkon-teema (Slim)
+Comment[nl]=Op Mac lijkend thema voor Falkon gebaseerd op Firefox Mac OS X thema (Slim)
+Comment[pt]=Tema semelhante ao Mac para o Falkon, baseado no tema Mac OS X do Firefox (Slim)
+Comment[sv]=Mac-liknande tema för Falkon baserat på Firefox Mac OS X-tema (Slim)
+Comment[uk]=Mac-подібна тема для Falkon, заснована на темі Mac OS X для Firefox (Slim)
+Comment[x-test]=xxMac like theme for Falkon based on Firefox Mac OS X themexx (Slim)
+
+Icon=theme.png
+Type=Service
+
+X-Falkon-Author=Kirill Omelchenko based on David Rosca's work
+X-Falkon-Email=kirill.omelchenko@gmail.com
+X-Falkon-License=theme.license
+
